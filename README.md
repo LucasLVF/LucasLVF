@@ -15,7 +15,7 @@
   <img align="right" alt="Lucas-pic" height="400" src="https://c.tenor.com/4_7eHoNWopMAAAAd/pixelated-gif.gif"> 
   <a href="https://github.com/lucasLVF">
   <img height="200em"src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lucasLVF&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
-    <img height="200em"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucasLVF&layout=compact&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" width = "495px"/>    
+    <img height="200em" width = "400em"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucasLVF&layout=compact&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true"/>    
 </div>
   <br>
   
