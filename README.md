@@ -17,7 +17,7 @@
   <br>
 </div>
 <div>
-  <img align="right" alt="Lucas-pic" height="400" width = "300"src="https://64.media.tumblr.com/d7b70051b57cef7f4acc925a83b02fc1/tumblr_oubx4rwPJN1wqr4kfo1_400.gifv"> 
+  <img align="right" alt="Lucas-pic" height="450" width = "300"src="https://64.media.tumblr.com/d7b70051b57cef7f4acc925a83b02fc1/tumblr_oubx4rwPJN1wqr4kfo1_400.gifv"> 
   <a href="https://github.com/lucasLVF">
   <img height="200em"src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lucasLVF&bg_color=-45,25132E,008080,61A9A6,C5D6B5,98BE85&title_color=99e8e6&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
     <img width="509em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucasLVF&layout=compact&bg_color=-45,25132E,008080,61A9A6,C5D6B5,98BE85&title_color=99e8e6&text_color=ffffff&hide_border=true&show_icons=true&count_private=true"/>    
