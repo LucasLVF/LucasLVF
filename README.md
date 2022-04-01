@@ -5,10 +5,15 @@
 <br>
 <div>  
 <ul>
-  <li> 🌱 Estudo na área de Desenvolvimento Web na Trybe e Engenharia Biomédica na PUC-SP; </li>
-  <li> ⏩ Estou focando aprimorar minhas capacidades em Soft Skills e Hard Skills na área da tec- <br> nologia e saúde; </li>
-  <li> 🌟 Embora eu esteja iniciando na área de desenvolvimento, posso dizer que tenho grande <br> entusiasmo por tudo o que estou aprendendo!! </li>
+  <li>🔭 I’m currently studying at <a target="_blank" href="https://www.betrybe.com">Trybe Desenvolvimento de Software</a>.</li>
+  <li> 🌱 I’m graduated in Game Development by PUC-SP and learning stuff to be a Full-Stack Web Developer!</li>
+  <li>💬 AMA, I am happy to help!</li>
+  <li>📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/nljcMmeV">here</a>.</li>
+  <li>😄 Pronouns: [He/Him]</li>
+  <li>⚡ Fun fact: I like **Gaming, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
+</li>
 </ul>
+  
   <br>
 </div>
 <div>
@@ -21,19 +26,34 @@
   
 <div align="center" style="display: inline_block">
   <h2> Tecnologias </h1>
-  <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Amanda-HTML" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Amanda-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Amanda-Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Python" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />     
+  <img align="center" alt="Lucas-Python" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  
+  <img align="center" alt="Lucas-Python" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+ 
+  <img align="center" alt="Lucas-Python" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  
+  <img align="center" alt="Lucas-Python" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  
+  
+  <img align="center" alt="Lucas-Python" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+          
+  
+  <img align="center" alt="Lucas-Python" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+          
+                                          
   
 </div>
 
 <br>
 <div> 
  <div align="center" style:"dislpay": inline_block"> <h2> Contatos </h2> <div>
-  <a href="https://www.linkedin.com/in/amanda-lupoli-3551981b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:amandalppn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/amandanlp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-viana-ferreira-b6636920a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:lucasviana300@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lu_vianaf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   
 </div>
