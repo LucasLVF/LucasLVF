@@ -15,7 +15,7 @@
   <img align="right" alt="Lucas-pic" height="400" src="https://c.tenor.com/4_7eHoNWopMAAAAd/pixelated-gif.gif"> 
   <a href="https://github.com/lucasLVF">
   <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lucasLVF&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucasLVF&layout=compact&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" width = "495px" height = "300px"/>    
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucasLVF&layout=compact&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" width = "495px"/>    
 </div>
   <br>
   
@@ -34,9 +34,6 @@
   <a href="https://www.linkedin.com/in/amanda-lupoli-3551981b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:amandalppn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/amandanlp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/Amanda-nlp/Amanda-nlp/blob/output/github-contribution-grid-snake.svg)
-  </div>
   
   
 </div>
